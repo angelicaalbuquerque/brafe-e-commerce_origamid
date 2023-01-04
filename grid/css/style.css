@@ -167,3 +167,15 @@ body {
   line-height: calc(25.2em / 18);
   margin-top: 80px;
 }
+
+/* Breakpoints */
+
+@media (max-width: 739px) {
+  .filtro {
+    display: none;
+  }
+
+  .footer p {
+    margin: 0 10px;
+  }
+}
