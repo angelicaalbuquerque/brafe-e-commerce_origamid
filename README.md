@@ -66,7 +66,8 @@ No primeiro projeto do curso, foi criado um site de uma cafeteria fictícia, o B
 
 Neste segundo projeto do curso, expandimos a marca Brafé para um e-commerce, seguindo o desenvolvimento com, simplesmente, HTML e CSS. Trabalhamos centralização de elementos, listagem de produtos e, até mesmo, estilização de uma sidebar simulando uma filtragem desses produtos.
 
-_Publicação do site ainda não disponível_
+🌐 [Visualizar website do projeto](https://brafe-e-commerce-origamid.vercel.app/) <br/>
+💻 [Visualizar códigos do projeto](https://github.com/angelicaalbuquerque/brafe-e-commerce_origamid)
 
 ## 📬 Entre em contato!
 
