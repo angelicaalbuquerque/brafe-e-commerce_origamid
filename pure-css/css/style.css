@@ -197,3 +197,43 @@ body {
   padding: 60px 0;
   margin-top: 80px;
 }
+
+@media (min-width: 740px) and (max-width: 980px) {
+  .container {
+    max-width: 720px;
+  }
+
+  .filtro {
+    width: 220px;
+  }
+
+  .produtos {
+    width: 460px;
+  }
+
+  .produtos li {
+    width: 220px;
+  }
+}
+
+@media (max-width: 739px) {
+  .container {
+    max-width: 300px;
+  }
+
+  .filtro {
+    display: none;
+  }
+
+  .produtos {
+    width: 300px;
+  }
+
+  .produtos li {
+    width: 140px;
+  }
+}
+
+/* Note1: para chegar nos valores de width para o responsivo, o calculo utilizado foi o tamanho do container dividido por 12 colunas, depois esse valor multiplicado pelo número de colunas que o elemento ocupa - 20px de gutter. Exemplo para a largura de produtos em tablet: 720/12 = 60. 60 * 8 = 480. 480 - 20 = 460px. */
+
+/* Note2: Para chegar ao cálculo para criar as colunas de '.produtos li' para mobile, foi dividido 300px por 2 e subtraído 10px para dar distância entre as colunas. */
