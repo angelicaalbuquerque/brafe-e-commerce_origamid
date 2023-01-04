@@ -55,7 +55,7 @@ Os estudos foram publicamos no [Vercel](https://vercel.com/), com o CSS mais pur
 
 No primeiro projeto do curso, foi criado um site de uma cafeteria fictícia, o Brafé, de cafés do Brasil. O site foi desenvolvido utilizando HTML e CSS, com o objetivo de praticar os conceitos de posicionamento de elementos comuns em um site - como header, main, nav, footer, entre outros.
 
-🌐 [Visualizar website do projeto](https://brafe-e-commerce-origamid.vercel.app/) <br/>
+🌐 [Visualizar website do projeto](https://brafe-website-origamid.vercel.app/) <br/>
 💻 [Visualizar códigos do projeto](https://github.com/angelicaalbuquerque/brafe-website_origamid)
 
 ### Brafé - Projeto 2: E-commerce
